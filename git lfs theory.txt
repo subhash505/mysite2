@@ -5,6 +5,6 @@ steps fir git LFS
 4.git add file.psd  # here add the .extension file 
 5. git commit -m "Add design file" # commit the changes
 6.git push origin main  # puch the changes 
-7. 
+7.    
 8.
 
